@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Npact - Energy Efficiency Made Easy]]></title>
         <description><![CDATA[Npact - Energy Efficiency Made Easy]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/npact/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 10 Feb 2016 23:32:03 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 10 Feb 2016 23:32:22 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/npact/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[ENERGY EFFICIENCY IS COMPLICATED. NPACT MAKES IT EASY.]]></title>
+            <description><![CDATA[<h1>ENERGY EFFICIENCY IS COMPLICATED. NPACT MAKES IT EASY.</h1>]]></description>
+            <link>https://thegrid.ai/npact/energy-efficiency-is-complicated-npact-makes-it-easy/index.html</link>
+            <guid isPermaLink="false">f6b4cc05-4134-46d9-860d-ee7a067400e1</guid>
+            <pubDate>Wed, 10 Feb 2016 23:31:32 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ea7f9c00-592f-4fea-8342-b11074cdc6dc.png">]]></description>
-            <link>undefinedcca6a787-17bf-4192-a926-a096c6661970/index.html</link>
+            <link>https://thegrid.ai/npact/cca6a787-17bf-4192-a926-a096c6661970/index.html</link>
             <guid isPermaLink="false">cca6a787-17bf-4192-a926-a096c6661970</guid>
             <pubDate>Wed, 10 Feb 2016 23:31:32 GMT</pubDate>
         </item>
