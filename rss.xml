@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Npact - Energy Efficiency Made Easy]]></title>
+        <description><![CDATA[Npact - Energy Efficiency Made Easy]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 10 Feb 2016 23:32:03 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ea7f9c00-592f-4fea-8342-b11074cdc6dc.png">]]></description>
+            <link>undefinedcca6a787-17bf-4192-a926-a096c6661970/index.html</link>
+            <guid isPermaLink="false">cca6a787-17bf-4192-a926-a096c6661970</guid>
+            <pubDate>Wed, 10 Feb 2016 23:31:32 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
