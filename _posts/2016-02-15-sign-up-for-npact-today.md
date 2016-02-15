@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-15T18:48:21.026Z'
-dateModified: '2016-02-15T18:48:18.065Z'
+datePublished: '2016-02-15T18:54:20.543Z'
+dateModified: '2016-02-15T18:54:18.111Z'
 title: Sign up for Npact today
 author: []
 sourcePath: _posts/2016-02-15-sign-up-for-npact-today.md
@@ -24,8 +24,8 @@ _type: Article
 ---
 # Sign up for Npact today
 
-From budgets and bills to free tips and energy-saving opportunities, you'll discover the effortless way to stay on top of it all.
+## From budgets and bills to free tips and energy-saving opportunities, you'll discover the effortless way to stay on top of it all.
 
 [Sign Up Free][0]
 
-[0]: https://itunes.apple.com/us/genre/ios/id36?mt=8
+[0]: kanyewest.com
