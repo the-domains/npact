@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-15T18:47:37.166Z'
-dateModified: '2016-02-15T18:47:23.637Z'
+datePublished: '2016-02-15T18:48:21.026Z'
+dateModified: '2016-02-15T18:48:18.065Z'
 title: Sign up for Npact today
 author: []
+sourcePath: _posts/2016-02-15-sign-up-for-npact-today.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-02-15-sign-up-for-npact-today.md
-published: true
 url: sign-up-for-npact-today/index.html
 _type: Article
 
