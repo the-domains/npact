@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-15T21:36:34.046Z'
-dateModified: '2016-02-15T21:36:29.242Z'
+datePublished: '2016-02-16T18:17:15.506Z'
+dateModified: '2016-02-16T18:17:12.485Z'
 title: Sign up for Npact today
 author: []
 sourcePath: _posts/2016-02-15-sign-up-for-npact-today.md
@@ -24,7 +24,7 @@ _type: Blurb
 ---
 # Sign up for Npact today
 
-## From budgets and bills to free tips and energy-saving opportunities, you'll discover the effortless way to stay on top of it all.
+## From budgets and bills to free tips and energy-saving opportunities, here's an effortless way to stay on top of it all.
 
 **[Sign Up Free][0]**
 
