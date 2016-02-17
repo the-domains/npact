@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-17T01:33:46.137Z'
-dateModified: '2016-02-17T01:31:54.508Z'
+datePublished: '2016-02-17T05:34:43.862Z'
+dateModified: '2016-02-17T05:34:38.820Z'
 title: Sign up for Npact today
 author: []
 sourcePath: _posts/2016-02-15-sign-up-for-npact-today.md
@@ -29,6 +29,5 @@ _type: Blurb
 **[Sign Up Free][0]**
 
 ****
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/26ad8c31-9fad-4db7-8051-a44e5bcc4c30.png)
 
 [0]: kanyewest.com
