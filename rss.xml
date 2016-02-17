@@ -4,11 +4,18 @@
         <description><![CDATA[Npact]]></description>
         <link>http://npact.co/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 17 Feb 2016 19:22:49 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Feb 2016 20:42:06 GMT</lastBuildDate>
         <atom:link href="http://npact.co/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[Action]]></title>
+            <description><![CDATA[<article><h1>Action</h1><h2>Make taking action simple and easy with effective tips and direct purchases</h2><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/0c9e83bf-f36e-4dfb-88ff-305aed4f92dc.jpg"></article>]]></description>
+            <link>http://npact.co/action/index.html</link>
+            <guid isPermaLink="false">e23ef0c0-9c0f-41c0-96e6-f5f7f1d228ef</guid>
+            <pubDate>Wed, 17 Feb 2016 20:40:49 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Tailored]]></title>
-            <description><![CDATA[<h1>Tailored</h1>]]></description>
+            <description><![CDATA[<article><h1>Tailored</h1><h2>Tailored solutions focus on what will work best for you</h2></article>]]></description>
             <link>http://npact.co/tailored/index.html</link>
             <guid isPermaLink="false">4d1ce44f-b154-4108-a14c-10067cf3b47b</guid>
             <pubDate>Wed, 17 Feb 2016 19:03:03 GMT</pubDate>
