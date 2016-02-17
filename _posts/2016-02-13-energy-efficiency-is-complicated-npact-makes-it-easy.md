@@ -4,11 +4,11 @@ hasPage: false
 inNav: false
 isBasedOnUrl: ''
 inLanguage: null
-starred: true
+starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-15T18:42:08.902Z'
-dateModified: '2016-02-15T18:42:06.922Z'
+datePublished: '2016-02-17T05:48:14.532Z'
+dateModified: '2016-02-17T05:48:10.711Z'
 title: ENERGY EFFICIENCY IS COMPLICATED. NPACT MAKES IT EASY.
 author: []
 sourcePath: _posts/2016-02-13-energy-efficiency-is-complicated-npact-makes-it-easy.md
