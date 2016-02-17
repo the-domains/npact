@@ -7,18 +7,18 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-02-17T18:24:53.159Z'
-dateModified: '2016-02-17T18:24:36.939Z'
+datePublished: '2016-02-17T18:29:02.751Z'
+dateModified: '2016-02-17T18:28:59.865Z'
 title: Get The Mobile App
 author: []
+sourcePath: _posts/2016-02-17-get-the-mobile-app.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-02-17-get-the-mobile-app.md
-published: true
 _type: Blurb
 
 ---
@@ -27,4 +27,4 @@ _type: Blurb
 ## Energy Efficiency is Complicated. Npact Makes it Easy.
 
 # Get The Mobile App
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ab5b18cd-9ecf-43c9-953b-f1aed1409e73.png)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/49b37df286b376092cb13619624c0d450167cfa5.png)
