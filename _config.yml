@@ -1,6 +1,6 @@
 name: Npact
 favicon: null
-layout_spectrum: 0.38688
+layout_spectrum: 0.88444
 typography_spectrum: 0.45023
 title: Npact
 cta:
@@ -23,7 +23,7 @@ color:
     - '#8cc63e'
     - '#4281f6'
   brandStrength: 0.12997571006417274
-  lightness: 0.4375
+  lightness: 0.375
   saturation: 0.9169402015395463
   rhythmicContrast: 0.10754168592393398
 purpose: []
