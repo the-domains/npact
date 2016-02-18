@@ -7,9 +7,9 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-02-18T16:15:49.679Z'
-dateModified: '2016-02-18T16:15:34.720Z'
-title: "Energy Efficiency is Complicated.\_"
+datePublished: '2016-02-18T16:19:44.614Z'
+dateModified: '2016-02-18T16:19:38.203Z'
+title: "Energy Efficiency is Complicated.\_Npact Makes it Easy."
 author: []
 sourcePath: _posts/2016-02-17-energy-efficiency-is-complicated-npact-makes-it-easy.md
 published: true
@@ -22,9 +22,7 @@ publisher:
 _type: Blurb
 
 ---
-# Energy Efficiency is Complicated. 
-
-# Npact Makes it Easy.
+# Energy Efficiency is Complicated. Npact Makes it Easy.
 
 [Sign Up For Free!][0]
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/96fb3b88-afb9-46ae-9be1-0d897a9a6c60.png)
