@@ -2,12 +2,13 @@
 inFeed: true
 hasPage: false
 inNav: false
+isBasedOnUrl: null
 inLanguage: null
-starred: true
+starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-18T17:43:40.609Z'
-dateModified: '2016-02-18T17:36:35.262Z'
+datePublished: '2016-02-18T18:17:37.689Z'
+dateModified: '2016-02-18T18:16:59.386Z'
 title: Sign Up For Free
 author: []
 sourcePath: _posts/2016-02-17-energy-efficiency-is-complicated-npact-makes-it-easy.md
@@ -26,4 +27,4 @@ _type: Blurb
 # [Sign Up For Free][0]
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e3664e9c-fa64-44c0-8823-d8073b93a133.png)
 
-[0]: http://eepurl.com/4Cn3z
+[0]: null
