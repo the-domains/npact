@@ -7,8 +7,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-02-18T17:30:06.132Z'
-dateModified: '2016-02-18T16:29:46.845Z'
+datePublished: '2016-02-18T17:30:22.700Z'
+dateModified: '2016-02-18T17:30:13.578Z'
 title: "Energy Efficiency is Complicated.\_Npact Makes it Easy."
 author: []
 sourcePath: _posts/2016-02-17-energy-efficiency-is-complicated-npact-makes-it-easy.md
