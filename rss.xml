@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Npact | Energy Efficiency Made Easy]]></title>
-        <description><![CDATA[Npact | Energy Efficiency Made Easy]]></description>
+        <title><![CDATA[Npact App Available on the App Store and Google Play]]></title>
+        <description><![CDATA[Npact App Available on the App Store and Google Play]]></description>
         <link>http://npact.co/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 17 Feb 2016 21:50:21 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Feb 2016 18:28:15 GMT</lastBuildDate>
         <atom:link href="http://npact.co/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Impact]]></title>
-            <description><![CDATA[<article><h1>Impact</h1><h2>Lower your environmental impact, and track progress</h2><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/7cb4812f-5890-43f7-9844-0521703c4b06.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Impact</h1><h2>Lower your environmental impact, and track progress</h2><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ccfc5a6e973a5593dda7495356f5c113f8e88d29.jpg"></article>]]></description>
             <link>http://npact.co/impact/index.html</link>
             <guid isPermaLink="false">a070f9e2-fa62-4c36-b608-d80f59d26214</guid>
             <pubDate>Wed, 17 Feb 2016 21:48:36 GMT</pubDate>
@@ -29,10 +29,10 @@
         </item>
         <item>
             <title><![CDATA[Connect]]></title>
-            <description><![CDATA[<article><h1>Connect</h1><h2>Connect to your utilitiy to automatically track spending and usage</h2></article>]]></description>
+            <description><![CDATA[<article><h1>Connect</h1><h2>Connect to your utility to automatically track spending and usage</h2><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/211e2760-f1bc-47e7-b382-ca34d7a09ed3.jpg"></article>]]></description>
             <link>http://npact.co/connect/index.html</link>
             <guid isPermaLink="false">62302f42-ef86-465d-a8c1-7c18112113e8</guid>
-            <pubDate>Wed, 17 Feb 2016 18:57:33 GMT</pubDate>
+            <pubDate>Thu, 18 Feb 2016 18:24:49 GMT</pubDate>
         </item>
     </channel>
 </rss>
