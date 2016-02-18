@@ -4,11 +4,11 @@ hasPage: false
 inNav: false
 isBasedOnUrl: null
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: ''
-datePublished: '2016-02-18T16:12:40.207Z'
-dateModified: '2016-02-18T16:11:50.733Z'
+datePublished: '2016-02-18T16:15:49.679Z'
+dateModified: '2016-02-18T16:15:34.720Z'
 title: "Energy Efficiency is Complicated.\_"
 author: []
 sourcePath: _posts/2016-02-17-energy-efficiency-is-complicated-npact-makes-it-easy.md
