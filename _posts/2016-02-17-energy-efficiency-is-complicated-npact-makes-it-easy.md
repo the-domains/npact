@@ -2,12 +2,13 @@
 inFeed: true
 hasPage: false
 inNav: false
+isBasedOnUrl: ''
 inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-03-09T22:50:01.813Z'
-dateModified: '2016-03-09T22:36:17.290Z'
+datePublished: '2016-03-09T22:53:40.029Z'
+dateModified: '2016-03-09T22:53:02.421Z'
 title: Be Notified When We Go Live
 author: []
 sourcePath: _posts/2016-02-17-energy-efficiency-is-complicated-npact-makes-it-easy.md
@@ -21,7 +22,7 @@ publisher:
 _type: Blurb
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7a97d8f9-35f5-44ab-b1cf-003e45dbbe9b.png)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/a17045e5a30fd0c496cfc9ce19a04cf27b288571.png)
 
 # [Be Notified When We Go Live][0]
 
