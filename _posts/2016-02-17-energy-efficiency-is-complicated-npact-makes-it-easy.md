@@ -7,8 +7,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-03-09T22:57:26.742Z'
-dateModified: '2016-03-09T22:53:46.815Z'
+datePublished: '2016-03-14T18:42:54.139Z'
+dateModified: '2016-03-14T18:42:34.854Z'
 title: Be Notified When We Go Live
 author: []
 sourcePath: _posts/2016-02-17-energy-efficiency-is-complicated-npact-makes-it-easy.md
@@ -22,9 +22,9 @@ publisher:
 _type: Blurb
 
 ---
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/a17045e5a30fd0c496cfc9ce19a04cf27b288571.png)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d61b6c59-9a48-41b5-83f3-14327199b150.jpg)
 
-# [Be Notified When We Go Live][0]
+[Be Notified When We Go Live][0]  
 
 ## Energy Efficiency is Complicated. Npact Makes it Easy.
 
