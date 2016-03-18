@@ -7,8 +7,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-03-18T14:05:43.915Z'
-dateModified: '2016-03-18T14:05:35.736Z'
+datePublished: '2016-03-18T14:07:52.229Z'
+dateModified: '2016-03-18T14:07:47.874Z'
 title: Be Notified When We Go Live
 author: []
 sourcePath: _posts/2016-02-17-energy-efficiency-is-complicated-npact-makes-it-easy.md
