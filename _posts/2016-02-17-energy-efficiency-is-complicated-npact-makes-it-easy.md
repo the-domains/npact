@@ -7,8 +7,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-03-18T14:12:13.537Z'
-dateModified: '2016-03-18T14:12:08.267Z'
+datePublished: '2016-03-18T14:14:47.325Z'
+dateModified: '2016-03-18T14:14:40.556Z'
 title: Be Notified When We Go Live
 author: []
 sourcePath: _posts/2016-02-17-energy-efficiency-is-complicated-npact-makes-it-easy.md
@@ -26,6 +26,6 @@ _type: MediaObject
 
 # [Be Notified When We Go Live][0]
 
-## Energy Efficiency is Complicated. Npact Makes it Easy.
+## Energy Efficiency is Complicated. Npact Makes it Easy. 
 
 [0]: http://unbouncepages.com/npact-app
